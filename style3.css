@@ -1,0 +1,136 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #f5f7fa;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  width: 1000px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.1);
+}
+asside {
+  width: 370px;
+  background: #737983;
+}
+.cv-photo {
+  margin-top: 25px;
+}
+.header-secondary {
+  color: #ffffff;
+}
+.contact-links {
+  color: #f3f5f8;
+  font-size: 14px;
+  line-height: 24px;
+}
+.bold {
+  font-weight: 900;
+  color: #ffffff;
+}
+.list-secondary {
+  color: #fb6d3a;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.list-secondary-item {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
+}
+.contact-block {
+  margin: 51px 0 0 40px;
+}
+.tech-skills-block {
+  margin: 47px 0 0 40px;
+}
+.soft-skills-block {
+  margin: 44px 0 0 40px;
+}
+.interests-block {
+  margin: 44px 0 0 40px;
+}
+main {
+  padding: 65px 88px 65px 88px;
+  width: 100%;
+}
+.main-description {
+  width: 550px;
+}
+.job-title {
+  font-size: 18px;
+  font-weight: 700;
+}
+h1 {
+  font-size: 45px;
+  font-weight: 700;
+}
+.description {
+  color: #595959;
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 40px;
+  text-align: justify;
+}
+.projects {
+  width: 550px;
+  margin-bottom: 51px;
+}
+.list-primary {
+  color: #000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.list-primary-item {
+  color: #595959;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.header-primary {
+  color: #000;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+.job-name {
+  color: #000;
+  font-size: 16px;
+  font-weight: 700;
+}
+.highlight {
+  color: #fb6d3a;
+}
+.job-date {
+  color: #a8a8a8;
+  font-size: 12px;
+}
+.job-date1 {
+  color: #a8a8a8;
+  font-size: 10px;
+  text-align: justify !important;
+}
+
+.job-list {
+  color: #595959;
+  font-size: 14px;
+  line-height: 24px;
+  list-style-position: inside;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.list-primary-item1 {
+  color: #e24343;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+  text-decoration: none;
+}
